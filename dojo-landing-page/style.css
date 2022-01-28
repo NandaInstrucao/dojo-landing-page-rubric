@@ -18,8 +18,6 @@ body {
 
 .header-menu {
     display: inline-block;
-    /* margin-right: 250px ;
-    margin-left: 550px; */
     margin-left: 400px;
     margin-top: 50px;
 }
@@ -80,7 +78,7 @@ article {
     display: inline-block;
 }
 
-.contact {
+.contact-section {
     margin-top: 1800px;
     margin-left: 750px;
 }
